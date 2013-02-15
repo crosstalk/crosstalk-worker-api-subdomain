@@ -5,7 +5,7 @@ crosstalk-worker-api-subdomain
 
 ## Crosstalk Subdomain API
 
-[~crosstalk.api.subdomain.authorize](/crosstalk/crosstalk-worker-api-subdomain/wiki/~crosstalk.api.subdomain.authorize) - Authorize subdomain ownership
+[~crosstalk.api.subdomain.authorize](https://github.com/crosstalk/crosstalk-worker-api-subdomain/wiki/~crosstalk.api.subdomain.authorize) - Authorize subdomain ownership
 
 `~crosstalk.api.subdomain.version` - Get Crosstalk Subdomain API version _Not implemented_
 
